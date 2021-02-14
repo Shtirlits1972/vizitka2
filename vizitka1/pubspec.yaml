@@ -32,8 +32,8 @@ dev_dependencies:
 
 flutter:
 
-uses-material-design: true
-assets: 
+ uses-material-design: true
+ assets: 
         - img/ava3.jpg
   #     - images/a_dot_ham.jpeg
 
